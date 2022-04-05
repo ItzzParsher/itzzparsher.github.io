@@ -2,13 +2,13 @@
 
 You can download any themes you want :) and it free.
 
-If you have problems with the theme, please contact me via email: tgaming562@gmail.com or Facebook: [Facebook](www.facebook.com/itzzparsher)!
+If you have problems with the theme, please contact me via email: tgaming562@gmail.com or Facebook: [www.facebook.com/itzzparsher](www.facebook.com/itzzparsher)!
 
 ### Theme:
 
 It's one of those things that can "change" your Discord experience :D and I have a theme (high quality)
 Of course, before downloading the theme, you need to download and install the existing BetterDiscord
-(Link: [BetterDiscord](www.betterdiscord.app))
+(Link: [www.BetterDiscord.app](www.betterdiscord.app))
 Here is the theme template
 ```template
 /**
@@ -54,7 +54,7 @@ And here are the themes I created (Download from MediaFire)
 
 Download link:
 
-[Download link](https://bit.ly/AliceSynthesis)
+[AliceSynthesisv1](https://bit.ly/AliceSynthesis)
 
 
 ### Support or Contact
