@@ -54,7 +54,7 @@ And here are the themes I created (Download from MediaFire)
 
 Download link:
 
-https://bit.ly/AliceSynthesis
+(https://bit.ly/AliceSynthesis)
 
 
 ### Support or Contact
