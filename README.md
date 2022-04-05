@@ -2,13 +2,13 @@
 
 You can download any themes you want :) and it free.
 
-If you have problems with the theme, please contact me via email: tgaming562@gmail.com or Facebook: [www.facebook.com/itzzparsher](www.facebook.com/itzzparsher)!
+If you have problems with the theme, please contact me via email: tgaming562@gmail.com or Facebook: [https://www.facebook.com/itzzparsher](https://www.facebook.com/itzzparsher)!
 
 ### Theme:
 
 It's one of those things that can "change" your Discord experience :D and I have a theme (high quality)
 Of course, before downloading the theme, you need to download and install the existing BetterDiscord
-(Link: [www.BetterDiscord.app](www.betterdiscord.app))
+(Link: [https://www.BetterDiscord.app](https://www.betterdiscord.app))
 Here is the theme template
 ```template
 /**
@@ -50,11 +50,11 @@ You can change name, version, description, author and invite if you want :)
 
 And here are the themes I created (Download from MediaFire)
 
-[![Alice-Synthesis.gif](https://i.postimg.cc/gkgg31HJ/Alice-Synthesis.gif)](https://postimg.cc/ppnQHG7b)
+[![Alice-Synthesis.gif](https://www.i.postimg.cc/gkgg31HJ/Alice-Synthesis.gif)](https://www.postimg.cc/ppnQHG7b)
 
 Download link:
 
-[AliceSynthesisv1](https://bit.ly/AliceSynthesis)
+[AliceSynthesisv1](https://www.bit.ly/AliceSynthesis)
 
 
 ### Support or Contact
