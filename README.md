@@ -1,4 +1,4 @@
-## Welcome ItzzParsher's Theme Storage
+## Welcome to ItzzParsher's Theme Storage
 
 You can download any themes you want :) and it free.
 
