@@ -50,7 +50,7 @@ You can change name, version, description, author and invite if you want :)
 
 And here are the themes I created (Download from MediaFire)
 
-[![Alice-Synthesis.gif](https://www.i.postimg.cc/gkgg31HJ/Alice-Synthesis.gif)](https://www.postimg.cc/ppnQHG7b)
+[![Alice-Synthesis.gif](https://.i.postimg.cc/gkgg31HJ/Alice-Synthesis.gif)](https://www.postimg.cc/ppnQHG7b)
 
 Download link:
 
