@@ -1,8 +1,6 @@
 ## Welcome to ItzzParsher's Theme Storage
 
-You can download any themes you want :) and it's free.
-
-If you have problems with the theme, please contact me via email: tgaming562@gmail.com or Facebook: [https://www.facebook.com/itzzparsher](https://www.facebook.com/itzzparsher)!
+This is where my themes are hosted (currently about 14) and you can download them for free XD
 
 ### Theme:
 
@@ -52,13 +50,17 @@ You can change name, version, description, author and invite if you want :)
 
 And here are the themes I created (Downloaded from MediaFire)
 
-[![Alice-Synthesis.gif](https://i.postimg.cc/kXRdL2XP/Alice-Synthesis.gif)](https://postimg.cc/4mGM9N9W)
+[![Alice-Synthesis.gif](https://i.postimg.cc/PrZwzGFb/Alice-Synthesis.gif)](https://postimg.cc/ZCbn4Qm0)
 
-Download link:
-
-[AliceSynthesisv1](https://www.bit.ly/AliceSynthesis)
+[Download](https://www.bit.ly/AliceSynthesis)
 
 
-### Support or Contact
+### Custom Theme (need payment)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Hmm... You may not need it, but someone will. XD
+
+Well... The price for 1 custom theme can be around 1-5 Dollars (2-6 Euros)
+
+You can contact if you want to make custom theme or have problem (breh)
+         [![Facebook](https://www.facebook.com/itzzparsher)]
+         Email: tgaming562@gmail.com
