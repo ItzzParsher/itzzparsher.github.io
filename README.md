@@ -1,14 +1,16 @@
 ## Welcome to ItzzParsher's Theme Storage
 
-You can download any themes you want :) and it free.
+You can download any themes you want :) and it's free.
 
 If you have problems with the theme, please contact me via email: tgaming562@gmail.com or Facebook: [https://www.facebook.com/itzzparsher](https://www.facebook.com/itzzparsher)!
 
 ### Theme:
 
 It's one of those things that can "change" your Discord experience :D and I have a theme (high quality)
+
 Of course, before downloading the theme, you need to download and install the existing BetterDiscord
 (Link: [https://www.BetterDiscord.app](https://www.betterdiscord.app))
+
 Here is the theme template
 ```template
 /**
@@ -48,7 +50,7 @@ You can change name, version, description, author and invite if you want :)
 
 ### Storage Theme
 
-And here are the themes I created (Download from MediaFire)
+And here are the themes I created (Downloaded from MediaFire)
 
 [![Alice-Synthesis.gif](https://i.postimg.cc/gkgg31HJ/Alice-Synthesis.gif)](https://postimg.cc/ppnQHG7b)
 
