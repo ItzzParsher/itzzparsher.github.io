@@ -55,16 +55,10 @@ You can change name, version, description, author and invite if you want :)
 
 And here are the themes I created (Downloaded from MediaFire)
 
-[![Alice-Synthesis.gif](https://i.postimg.cc/yY7YpJy2/Alice-Synthesis.gif)](Alice Synthesis)
+[![Alice-Synthesis.gif](https://i.postimg.cc/yY7YpJy2/Alice-Synthesis.gif)](Alice Synthesis) [Download](https://www.bit.ly/AliceSynthesis)
 
 
-[Download](https://www.bit.ly/AliceSynthesis)
-
-
-[![AOVxSAO.gif](https://j.gifs.com/83zm1o.gif)](Arena Of Valor x Sword Art Online P.2)
-
-
-[Download](https://www.mediafire.com/file/ur0cay9l5e9uiny/AOVxSAOv2.theme.css/file)
+[![AOVxSAO.gif](https://j.gifs.com/83zm1o.gif)](Arena Of Valor x Sword Art Online P.2) [Download](https://www.mediafire.com/file/ur0cay9l5e9uiny/AOVxSAOv2.theme.css/file)
 
 ### Custom Theme (need payment)
 
