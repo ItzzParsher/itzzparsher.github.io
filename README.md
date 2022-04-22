@@ -62,5 +62,7 @@ Hmm... You may not need it, but someone will. XD
 Well... The price for 1 custom theme can be around 1-5 Dollars (2-6 Euros)
 
 You can contact if you want to make custom theme or have problem (breh)
-         [![Facebook](https://www.facebook.com/itzzparsher)]
-         Email: tgaming562@gmail.com
+
+[Facebook](https://www.facebook.com/itzzparsher)
+
+Email: tgaming562@gmail.com
