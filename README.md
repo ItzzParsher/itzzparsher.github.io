@@ -13,9 +13,8 @@ Of course, before downloading the theme, you need to download and install the ex
   <summary>Spoiler: Theme Template </summary>
    A1: 
 Here is the theme template
-
+  
 ```template
-
   /**
   * @name Template
   * @version 1.0.0
