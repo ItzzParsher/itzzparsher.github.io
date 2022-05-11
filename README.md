@@ -11,7 +11,8 @@ Of course, before downloading the theme, you need to download and install the ex
 
 <details> 
   <summary>Spoiler: Theme Template </summary>
-   A1: 
+   A1:
+  
 Here is the theme template
   
 ```template
